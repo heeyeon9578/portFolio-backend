@@ -1,0 +1,20 @@
+# Node.js 관련 파일들
+node_modules/
+npm-debug.log
+yarn-error.log
+.DS_Store
+
+# 환경 변수 파일
+.env
+
+# 로그 파일
+*.log
+
+# 운영체제에서 자동 생성되는 파일들
+Thumbs.db
+.DS_Store
+
+# IDE 및 편집기 관련 파일
+.vscode/
+.idea/
+*.sublime-workspace
